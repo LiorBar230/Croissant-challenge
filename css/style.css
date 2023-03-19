@@ -1,0 +1,13 @@
+body {
+  background-color: lightyellow;
+  text-align: center;
+}
+
+img {
+  width: 400px;
+}
+.navigation {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+}
